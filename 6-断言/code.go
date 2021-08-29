@@ -40,4 +40,5 @@ func main() {
 	fmt.Println(t3, "-", ok) //<nil> - false
 
 	findType(10) // int
+	//测试
 }
